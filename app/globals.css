@@ -1,8 +1,20 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #08111f;
+  --foreground: #f8fafc;
+
+  --primary: #3b82f6;
+  --primary-light: #60a5fa;
+  --secondary: #6366f1;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+
+  --card: rgba(15, 27, 46, 0.88);
+  --card-hover: rgba(20, 35, 58, 0.95);
+  --border: rgba(71, 85, 105, 0.55);
+  --muted: #94a3b8;
 }
 
 @theme inline {
@@ -12,15 +24,232 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
+  margin: 0;
+  background:
+    radial-gradient(
+      circle at 10% 10%,
+      rgba(59, 130, 246, 0.10),
+      transparent 30%
+    ),
+    radial-gradient(
+      circle at 90% 20%,
+      rgba(99, 102, 241, 0.10),
+      transparent 30%
+    ),
+    linear-gradient(
+      135deg,
+      #07101d 0%,
+      #0b1627 50%,
+      #0d1730 100%
+    );
+
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b1627;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* Selección de texto */
+
+::selection {
+  background: rgba(59, 130, 246, 0.35);
+  color: #ffffff;
+}
+
+/* Inputs */
+
+input,
+select,
+button {
+  font-family: inherit;
+}
+
+select {
+  cursor: pointer;
+}
+
+input:focus,
+select:focus,
+button:focus-visible {
+  outline: none;
+}
+
+/* Range */
+
+input[type="range"] {
+  appearance: none;
+  -webkit-appearance: none;
+  height: 6px;
+  border-radius: 999px;
+  background: #334155;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #3b82f6;
+  border: 3px solid #dbeafe;
+  cursor: pointer;
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.15);
+  transition: transform 0.2s ease;
+}
+
+input[type="range"]::-webkit-slider-thumb:hover {
+  transform: scale(1.15);
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #3b82f6;
+  border: 3px solid #dbeafe;
+  cursor: pointer;
+}
+
+/* Animaciones */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseSoft {
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.55;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out;
+}
+
+.animate-pulse-soft {
+  animation: pulseSoft 2s infinite;
+}
+
+/* Tarjetas */
+
+.dashboard-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  box-shadow:
+    0 10px 30px rgba(0, 0, 0, 0.20),
+    inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease,
+    background 0.2s ease;
+}
+
+.dashboard-card:hover {
+  border-color: rgba(96, 165, 250, 0.28);
+}
+
+/* Precio principal */
+
+.price-highlight {
+  background:
+    radial-gradient(
+      circle at top right,
+      rgba(59, 130, 246, 0.20),
+      transparent 45%
+    ),
+    linear-gradient(
+      145deg,
+      rgba(30, 64, 175, 0.30),
+      rgba(49, 46, 129, 0.25)
+    );
+
+  border: 1px solid rgba(96, 165, 250, 0.35);
+  box-shadow:
+    0 15px 35px rgba(37, 99, 235, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+/* Estado del sistema */
+
+.status-online {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #4ade80;
+}
+
+.status-online::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #22c55e;
+  box-shadow: 0 0 10px rgba(34, 197, 94, 0.8);
+  animation: pulseSoft 2s infinite;
+}
+
+/* Gráficos */
+
+.chart-container {
+  background: rgba(2, 6, 23, 0.30);
+  border: 1px solid rgba(71, 85, 105, 0.35);
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+  body {
+    background:
+      linear-gradient(
+        145deg,
+        #07101d 0%,
+        #0b1627 100%
+      );
+  }
 }

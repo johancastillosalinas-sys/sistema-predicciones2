@@ -1,0 +1,801 @@
+pais,region,tipo_propiedad,precio_usd,superficie_m2,habitaciones,banos
+Perú,Lima,Departamento,83926,64,1,1
+Perú,Lima,Departamento,260800,264,4,1
+Perú,Arequipa,Casa,151301,180,2,2
+Perú,Lima,Casa,322899,237,4,2
+Perú,Arequipa,Casa,131534,138,3,3
+Perú,Lima,Casa,349956,237,2,2
+Perú,La Libertad,Departamento,126315,157,4,1
+Perú,Lima,Departamento,191700,184,3,2
+Perú,Piura,Casa,73602,63,1,2
+Perú,Lima,Casa,214694,141,3,1
+Perú,La Libertad,Departamento,195110,255,2,2
+Perú,Lima,Casa,248347,155,1,3
+Perú,La Libertad,Casa,210236,211,4,2
+Perú,Cusco,Departamento,204812,249,4,1
+Perú,Piura,Departamento,225939,257,3,1
+Perú,Arequipa,Departamento,192838,237,1,1
+Perú,La Libertad,Departamento,131900,138,4,1
+Perú,Lima,Casa,196766,112,1,3
+Perú,La Libertad,Departamento,50566,54,2,1
+Perú,Piura,Departamento,94842,121,1,3
+Perú,Lima,Casa,146481,86,4,2
+Perú,La Libertad,Departamento,187202,276,2,3
+Perú,La Libertad,Casa,341205,296,3,3
+Perú,Arequipa,Departamento,90090,139,1,3
+Perú,Lima,Departamento,322158,290,4,2
+Perú,Lima,Departamento,348669,286,1,1
+Perú,Lima,Departamento,302916,292,2,2
+Perú,La Libertad,Departamento,270147,294,4,2
+Perú,La Libertad,Casa,263953,299,1,3
+Perú,Piura,Departamento,144034,170,1,1
+Perú,La Libertad,Departamento,198449,247,1,2
+Perú,Lima,Departamento,317541,283,3,3
+Perú,Lima,Casa,446971,265,1,2
+Perú,Piura,Casa,57141,61,2,3
+Perú,Lima,Departamento,227805,233,1,2
+Perú,Arequipa,Casa,128916,136,1,1
+Perú,Lima,Casa,158448,102,4,2
+Perú,Lima,Casa,399794,232,3,1
+Perú,Cusco,Casa,129214,118,2,2
+Perú,Arequipa,Casa,227640,193,4,3
+Perú,Lima,Departamento,64668,52,3,3
+Perú,Cusco,Departamento,147308,196,3,1
+Perú,Cusco,Casa,107507,88,1,3
+Perú,Lima,Departamento,318674,227,2,2
+Perú,Lima,Casa,339283,193,1,1
+Perú,Lima,Casa,301714,189,4,3
+Perú,Lima,Departamento,191833,148,4,3
+Perú,La Libertad,Casa,203021,169,4,3
+Perú,Piura,Casa,238714,215,2,3
+Perú,Lima,Departamento,211249,148,2,2
+Perú,Arequipa,Casa,233881,212,1,1
+Perú,Lima,Casa,95170,70,4,3
+Perú,Cusco,Casa,86731,82,3,3
+Perú,Arequipa,Casa,309209,287,2,1
+Perú,Lima,Casa,115448,76,1,2
+Perú,Arequipa,Departamento,220884,241,4,1
+Perú,Lima,Casa,145116,84,4,1
+Perú,Piura,Casa,256040,270,2,3
+Perú,Cusco,Departamento,54446,73,2,1
+Perú,Arequipa,Casa,236556,274,1,1
+Perú,Lima,Departamento,120797,116,1,2
+Perú,Piura,Casa,124020,116,4,2
+Perú,Arequipa,Casa,178054,200,3,2
+Perú,La Libertad,Departamento,132045,153,3,2
+Perú,Lima,Departamento,295320,219,3,2
+Perú,La Libertad,Departamento,87595,109,1,1
+Perú,Lima,Casa,500692,287,4,3
+Perú,Lima,Casa,192076,147,3,3
+Perú,Lima,Departamento,286810,235,1,2
+Perú,Arequipa,Casa,83058,98,2,3
+Perú,Lima,Casa,236081,150,1,1
+Perú,Lima,Casa,216348,158,2,3
+Perú,Cusco,Casa,89609,101,2,2
+Perú,Lima,Departamento,184209,169,4,2
+Perú,Lima,Departamento,379693,267,3,3
+Perú,Cusco,Departamento,123790,178,1,3
+Perú,Lima,Casa,282882,167,4,1
+Perú,Lima,Casa,406610,238,3,1
+Perú,Arequipa,Departamento,175502,244,4,3
+Perú,La Libertad,Departamento,52817,78,1,3
+Perú,Lima,Casa,403212,239,4,2
+Perú,La Libertad,Departamento,66071,88,2,2
+Perú,Arequipa,Casa,72383,59,4,2
+Perú,Lima,Casa,547308,299,4,1
+Perú,Arequipa,Departamento,44364,53,4,3
+Perú,Piura,Casa,194123,177,4,2
+Perú,Arequipa,Departamento,188912,210,3,1
+Perú,Arequipa,Departamento,178179,210,3,1
+Perú,Lima,Departamento,92030,95,3,2
+Perú,Cusco,Departamento,103148,139,2,2
+Perú,Lima,Casa,233515,164,4,2
+Perú,Cusco,Departamento,114178,124,4,1
+Perú,La Libertad,Departamento,148414,213,1,3
+Perú,Piura,Casa,83874,85,3,3
+Perú,Piura,Departamento,47413,61,1,3
+Perú,La Libertad,Departamento,73376,79,2,1
+Perú,Lima,Departamento,77983,68,4,1
+Perú,Piura,Casa,55960,58,2,3
+Perú,Piura,Departamento,251814,299,1,1
+Perú,Lima,Departamento,293763,229,4,1
+Perú,La Libertad,Departamento,58888,88,2,2
+Perú,Lima,Departamento,200400,171,3,1
+Perú,Lima,Casa,385121,288,2,2
+Perú,Arequipa,Departamento,186069,279,1,2
+Perú,Lima,Departamento,176193,171,1,1
+Perú,Lima,Casa,516326,289,2,1
+Perú,Piura,Departamento,82821,94,2,3
+Perú,Lima,Casa,389921,231,2,2
+Perú,Lima,Casa,343136,244,2,2
+Perú,Lima,Casa,329012,249,1,3
+Perú,Cusco,Departamento,133653,141,3,1
+Perú,Lima,Departamento,251429,215,2,1
+Perú,Piura,Departamento,88815,96,2,1
+Perú,Piura,Departamento,174070,213,4,1
+Perú,Arequipa,Departamento,84538,98,3,1
+Perú,Arequipa,Casa,62757,52,1,3
+Perú,Lima,Casa,117229,65,4,1
+Perú,Lima,Casa,327455,213,2,2
+Perú,Lima,Departamento,97629,90,3,2
+Perú,Lima,Departamento,243049,210,1,1
+Perú,Lima,Departamento,259110,183,4,1
+Perú,Arequipa,Casa,71980,59,2,3
+Perú,Lima,Departamento,338788,297,1,2
+Perú,Piura,Departamento,49807,60,3,1
+Perú,Piura,Departamento,205267,226,2,1
+Perú,Lima,Departamento,195437,198,2,1
+Perú,Arequipa,Departamento,140764,151,3,1
+Perú,Cusco,Casa,248285,251,1,2
+Perú,Lima,Departamento,109187,100,4,2
+Perú,La Libertad,Casa,68972,81,3,3
+Perú,Cusco,Casa,266408,231,3,2
+Perú,La Libertad,Casa,303624,285,2,3
+Perú,Lima,Casa,144999,96,1,1
+Perú,Arequipa,Departamento,211813,228,4,2
+Perú,Lima,Casa,195551,131,3,3
+Perú,Piura,Casa,311654,298,4,3
+Perú,Lima,Departamento,212959,155,1,1
+Perú,Lima,Casa,301685,194,4,1
+Perú,Piura,Departamento,181083,243,3,3
+Perú,Lima,Departamento,163497,160,3,3
+Perú,Lima,Casa,77540,57,4,1
+Perú,La Libertad,Departamento,174138,204,2,1
+Perú,Lima,Departamento,72876,70,4,2
+Perú,Lima,Departamento,121130,119,1,2
+Perú,La Libertad,Departamento,94695,127,3,1
+Perú,Lima,Departamento,219323,170,4,2
+Perú,Lima,Casa,137458,110,4,1
+Perú,Lima,Departamento,242851,229,3,2
+Perú,Lima,Casa,416990,264,2,1
+Perú,Lima,Departamento,107509,105,3,3
+Perú,La Libertad,Departamento,187128,288,2,2
+Perú,Lima,Departamento,64661,64,3,1
+Perú,Lima,Departamento,319068,234,2,2
+Perú,Arequipa,Departamento,145448,194,1,2
+Perú,La Libertad,Departamento,130223,195,3,2
+Perú,Arequipa,Casa,219510,217,3,2
+Perú,Lima,Casa,378090,229,2,3
+Perú,Lima,Departamento,308940,247,1,1
+Perú,Lima,Casa,166775,119,4,2
+Perú,Lima,Casa,193934,143,3,1
+Perú,Lima,Departamento,92559,80,4,3
+Perú,La Libertad,Casa,326468,269,3,2
+Perú,Piura,Casa,336419,297,2,1
+Perú,Cusco,Departamento,146615,185,1,1
+Perú,Lima,Casa,177076,117,1,1
+Perú,Arequipa,Departamento,123110,139,2,1
+Perú,Arequipa,Departamento,110648,149,3,1
+Perú,Lima,Casa,93829,59,2,2
+Perú,Lima,Casa,187117,133,1,1
+Perú,La Libertad,Departamento,151853,192,3,3
+Perú,Lima,Departamento,160326,118,4,2
+Perú,Lima,Casa,462048,252,4,3
+Perú,Lima,Casa,181531,113,4,1
+Perú,Lima,Departamento,293785,278,2,3
+Perú,Lima,Departamento,168866,132,2,2
+Perú,Lima,Departamento,104502,91,4,3
+Perú,Cusco,Casa,248890,228,1,3
+Perú,Lima,Departamento,228375,202,3,3
+Perú,Arequipa,Departamento,109133,153,3,3
+Perú,Lima,Departamento,241162,184,2,3
+Perú,La Libertad,Departamento,257039,293,3,1
+Perú,Lima,Departamento,370772,278,1,2
+Perú,Lima,Casa,91818,59,2,1
+Perú,Lima,Departamento,237501,208,1,3
+Perú,La Libertad,Departamento,146952,206,4,1
+Perú,Cusco,Departamento,141378,164,4,2
+Perú,Lima,Departamento,206291,197,2,2
+Perú,Lima,Departamento,105427,96,3,2
+Perú,Arequipa,Casa,281368,259,3,3
+Perú,Piura,Casa,324202,289,4,1
+Perú,Cusco,Casa,310803,290,2,1
+Perú,Lima,Departamento,359166,255,2,3
+Perú,Lima,Casa,279381,150,2,2
+Perú,La Libertad,Departamento,82842,112,3,3
+Perú,Lima,Departamento,114331,102,4,1
+Perú,Lima,Departamento,96694,84,1,2
+Perú,Piura,Casa,179645,184,2,3
+Perú,Lima,Departamento,277812,236,3,2
+Perú,Lima,Departamento,265888,229,4,1
+Perú,Lima,Departamento,358830,284,4,2
+Perú,Cusco,Departamento,123180,130,1,2
+Perú,La Libertad,Departamento,166368,238,3,1
+Perú,Lima,Casa,399779,264,4,3
+Perú,Lima,Casa,127762,78,1,2
+Perú,La Libertad,Departamento,49184,67,3,3
+Perú,Arequipa,Casa,277643,269,2,2
+Perú,La Libertad,Casa,172854,178,3,3
+Perú,La Libertad,Casa,302538,251,2,1
+Perú,Lima,Casa,137276,81,1,1
+Perú,Arequipa,Departamento,186230,265,3,1
+Perú,Arequipa,Departamento,236799,288,3,1
+Perú,Arequipa,Casa,246239,211,4,2
+Perú,Arequipa,Casa,350019,284,4,1
+Perú,Lima,Casa,394446,272,2,3
+Perú,Arequipa,Departamento,182280,200,4,1
+Perú,La Libertad,Departamento,205067,237,1,3
+Perú,Arequipa,Departamento,255841,283,3,3
+Perú,Lima,Casa,79023,54,4,2
+Perú,Lima,Departamento,235445,221,2,2
+Perú,La Libertad,Departamento,206083,251,3,2
+Perú,Lima,Casa,400029,258,1,2
+Perú,Cusco,Casa,285845,286,1,2
+Perú,Arequipa,Casa,47012,53,1,1
+Perú,Cusco,Departamento,112000,124,4,1
+Perú,La Libertad,Departamento,142221,215,1,1
+Perú,Lima,Casa,178772,136,2,1
+Perú,Lima,Departamento,239995,183,2,1
+Perú,Cusco,Departamento,174398,187,2,1
+Perú,Lima,Casa,121344,95,4,2
+Perú,Cusco,Departamento,191591,230,2,1
+Perú,Lima,Casa,88196,60,1,3
+Perú,Lima,Departamento,122415,103,3,2
+Perú,Lima,Casa,116146,82,3,3
+Perú,Arequipa,Departamento,103848,130,1,3
+Perú,Lima,Casa,319427,243,1,1
+Perú,Lima,Departamento,274379,220,1,3
+Perú,Lima,Casa,347349,278,3,2
+Perú,Lima,Casa,98212,68,3,3
+Perú,Piura,Departamento,105900,123,1,3
+Perú,Lima,Casa,456127,265,3,1
+Perú,La Libertad,Departamento,140933,167,4,1
+Perú,Piura,Casa,215109,192,1,1
+Perú,Cusco,Casa,63526,59,1,3
+Perú,Arequipa,Casa,287682,299,3,1
+Perú,Cusco,Departamento,152300,225,3,3
+Perú,La Libertad,Departamento,178199,271,3,2
+Perú,Arequipa,Departamento,55971,66,4,3
+Perú,Arequipa,Departamento,135710,147,3,2
+Perú,Cusco,Casa,84758,88,1,1
+Perú,Cusco,Departamento,208871,259,1,2
+Perú,La Libertad,Casa,106513,104,2,2
+Perú,Lima,Departamento,217417,190,4,3
+Perú,Lima,Casa,375296,293,1,1
+Perú,Lima,Casa,376831,234,4,3
+Perú,Lima,Casa,294494,202,4,1
+Perú,Cusco,Departamento,41056,52,4,2
+Perú,La Libertad,Casa,257419,239,4,1
+Perú,Piura,Departamento,82353,122,1,3
+Perú,Piura,Departamento,185874,278,2,3
+Perú,La Libertad,Casa,140622,137,1,2
+Perú,Lima,Casa,73805,53,4,1
+Perú,Arequipa,Departamento,234785,292,2,3
+Perú,Lima,Casa,297425,218,3,2
+Perú,La Libertad,Casa,88511,96,1,3
+Perú,Arequipa,Departamento,79560,110,3,2
+Perú,Lima,Departamento,368553,265,3,2
+Perú,Arequipa,Departamento,187533,288,4,2
+Perú,La Libertad,Departamento,117836,154,3,1
+Perú,La Libertad,Departamento,251867,275,1,3
+Perú,Cusco,Departamento,125553,188,4,3
+Perú,Lima,Departamento,178981,182,2,2
+Perú,Piura,Casa,305842,254,1,1
+Perú,Lima,Departamento,329706,273,3,2
+Perú,Arequipa,Casa,155557,147,1,1
+Perú,Cusco,Casa,233858,196,4,1
+Perú,Lima,Casa,317499,218,1,1
+Perú,Piura,Casa,269467,240,4,3
+Perú,La Libertad,Departamento,84417,107,3,3
+Perú,Lima,Casa,216943,156,3,3
+Perú,Lima,Casa,438635,255,4,3
+Perú,Lima,Departamento,106085,95,1,1
+Perú,Lima,Casa,297117,237,1,3
+Perú,Lima,Departamento,200550,207,1,2
+Perú,Lima,Casa,234186,128,1,2
+Perú,Piura,Casa,238280,277,3,1
+Perú,La Libertad,Departamento,148018,187,2,2
+Perú,Lima,Casa,184719,99,3,1
+Perú,Lima,Departamento,343705,276,4,3
+Perú,Lima,Departamento,208341,183,4,3
+Perú,Lima,Departamento,77721,75,2,1
+Perú,Piura,Departamento,173535,190,3,3
+Perú,La Libertad,Departamento,149949,165,3,2
+Perú,Lima,Departamento,104626,76,2,1
+Perú,Piura,Casa,164644,150,2,3
+Perú,Lima,Departamento,55697,50,2,3
+Perú,Cusco,Departamento,103711,113,4,2
+Perú,La Libertad,Casa,93842,76,2,1
+Perú,La Libertad,Departamento,50541,57,2,2
+Perú,La Libertad,Departamento,96843,142,1,2
+Perú,Arequipa,Casa,66068,64,2,3
+Perú,Lima,Casa,201695,133,2,1
+Perú,Lima,Casa,428156,295,2,3
+Perú,Piura,Departamento,95429,121,2,2
+Perú,Lima,Departamento,236499,215,1,1
+Perú,La Libertad,Casa,184968,218,2,3
+Perú,Lima,Departamento,179199,125,4,3
+Perú,Lima,Casa,237773,141,2,2
+Perú,Lima,Casa,356975,274,1,2
+Perú,Lima,Casa,303623,203,2,2
+Perú,Arequipa,Casa,199222,171,2,2
+Perú,Lima,Departamento,193619,153,3,3
+Perú,Lima,Casa,156212,122,4,1
+Perú,Cusco,Casa,136616,121,2,2
+Perú,Arequipa,Departamento,47681,56,4,2
+Perú,La Libertad,Casa,193552,176,1,2
+Perú,Lima,Casa,477370,295,4,1
+Perú,Lima,Departamento,191165,171,2,1
+Perú,Lima,Departamento,130170,102,3,2
+Perú,Lima,Departamento,222782,199,4,1
+Perú,Lima,Casa,376408,251,1,1
+Perú,Lima,Departamento,199058,146,1,2
+Perú,Piura,Casa,281801,238,1,2
+Perú,Piura,Casa,118075,99,4,1
+Perú,Lima,Departamento,175459,147,2,3
+Perú,Piura,Casa,83350,88,3,2
+Perú,Piura,Casa,196407,180,4,1
+Perú,Cusco,Departamento,65179,75,4,2
+Perú,Lima,Casa,116811,63,3,1
+Perú,La Libertad,Departamento,64720,90,4,1
+Perú,Lima,Casa,412205,280,2,3
+Perú,Lima,Departamento,196693,138,2,3
+Perú,Cusco,Departamento,214777,242,4,1
+Perú,Lima,Departamento,260225,188,2,2
+Perú,Lima,Departamento,75597,59,1,1
+Perú,Lima,Casa,404781,220,1,2
+Perú,Lima,Departamento,204901,156,1,1
+Perú,La Libertad,Casa,94645,93,3,3
+Perú,Arequipa,Departamento,154923,238,2,2
+Perú,Lima,Departamento,67952,69,1,3
+Perú,Lima,Departamento,294736,294,1,1
+Perú,Arequipa,Casa,282238,283,2,3
+Perú,Lima,Casa,438051,266,1,3
+Perú,Lima,Departamento,262822,220,4,2
+Perú,Lima,Casa,252025,175,4,2
+Perú,Lima,Departamento,81256,57,1,3
+Perú,Cusco,Casa,180165,151,2,3
+Perú,Cusco,Departamento,158302,168,2,2
+Perú,Lima,Departamento,103280,75,4,1
+Perú,Lima,Casa,231600,138,1,1
+Perú,Lima,Casa,285310,191,1,1
+Perú,Lima,Casa,454807,243,2,3
+Perú,Piura,Departamento,126772,138,1,1
+Perú,Arequipa,Departamento,232123,252,1,2
+Perú,Lima,Casa,119142,68,2,1
+Perú,La Libertad,Departamento,142469,158,4,2
+Perú,Arequipa,Departamento,194893,262,4,2
+Perú,Lima,Departamento,224715,196,1,1
+Perú,Lima,Departamento,89803,84,2,3
+Perú,Arequipa,Casa,277875,255,2,1
+Perú,Lima,Casa,190200,121,2,1
+Perú,La Libertad,Departamento,41948,61,4,1
+Perú,Lima,Casa,95621,64,3,2
+Perú,Cusco,Casa,180399,172,1,3
+Perú,Lima,Casa,124077,96,3,1
+Perú,Cusco,Departamento,44997,64,1,2
+Perú,Lima,Casa,284181,174,1,2
+Perú,Lima,Departamento,249853,205,4,2
+Perú,Arequipa,Casa,48215,51,4,2
+Perú,Lima,Departamento,72068,56,2,3
+Perú,Arequipa,Departamento,161808,240,2,1
+Perú,Lima,Casa,206114,133,3,2
+Perú,Arequipa,Casa,243176,222,3,1
+Perú,Arequipa,Casa,83988,70,1,2
+Perú,Lima,Casa,398687,265,1,2
+Perú,Piura,Casa,91192,98,1,2
+Perú,Cusco,Casa,121133,109,1,2
+Perú,La Libertad,Casa,276290,274,1,3
+Perú,Lima,Casa,424348,275,1,1
+Perú,Lima,Departamento,205539,192,3,3
+Perú,Lima,Casa,203988,126,2,1
+Perú,Piura,Departamento,48296,56,3,2
+Perú,Lima,Departamento,281736,218,3,2
+Perú,Lima,Casa,242945,151,3,1
+Perú,Lima,Casa,502061,278,3,1
+Perú,Lima,Departamento,134517,119,4,1
+Perú,Arequipa,Casa,276092,237,3,1
+Perú,Lima,Casa,165567,99,4,1
+Perú,Lima,Casa,152398,119,4,2
+Perú,Lima,Departamento,172614,147,4,2
+Perú,Arequipa,Casa,222611,246,3,3
+Perú,Lima,Casa,202790,155,1,3
+Perú,La Libertad,Departamento,164584,193,4,3
+Perú,Piura,Departamento,55280,72,4,2
+Perú,Piura,Casa,313816,297,1,2
+Perú,Arequipa,Casa,172946,199,3,1
+Perú,Arequipa,Casa,78149,87,1,2
+Perú,Lima,Departamento,183212,163,1,1
+Perú,Lima,Departamento,301166,250,3,2
+Perú,Lima,Casa,406574,259,3,2
+Perú,Lima,Casa,193942,109,2,3
+Perú,Lima,Casa,214819,131,2,2
+Perú,La Libertad,Casa,134635,116,4,2
+Perú,Lima,Departamento,221177,212,2,3
+Perú,Lima,Casa,426823,259,1,2
+Perú,Lima,Casa,149551,82,2,1
+Perú,Arequipa,Casa,259658,287,3,3
+Perú,Lima,Departamento,215919,190,4,1
+Perú,Lima,Departamento,182053,128,4,1
+Perú,Piura,Casa,184771,195,3,2
+Perú,Lima,Departamento,227705,179,3,3
+Perú,Lima,Departamento,249128,211,2,2
+Perú,Piura,Departamento,179381,208,1,3
+Perú,Lima,Departamento,201616,198,2,2
+Perú,Lima,Casa,248365,193,4,3
+Perú,Lima,Departamento,162029,152,1,2
+Perú,Lima,Departamento,385188,278,2,1
+Perú,Lima,Departamento,167957,141,3,1
+Perú,Lima,Departamento,269062,232,3,1
+Perú,Lima,Departamento,262337,198,2,3
+Perú,Arequipa,Departamento,237627,262,1,1
+Perú,Lima,Departamento,217662,222,1,3
+Perú,Lima,Departamento,287923,240,4,3
+Perú,Lima,Casa,437949,245,4,2
+Perú,Lima,Departamento,310324,270,2,2
+Perú,La Libertad,Departamento,153204,162,1,1
+Perú,Piura,Casa,94153,109,1,2
+Perú,Piura,Casa,274201,237,4,3
+Perú,Lima,Casa,360815,236,1,3
+Perú,La Libertad,Departamento,126367,137,1,1
+Perú,Lima,Casa,160237,126,3,3
+Perú,Cusco,Departamento,135417,201,1,1
+Perú,Arequipa,Casa,109586,107,4,3
+Perú,Piura,Departamento,163912,184,3,3
+Perú,Lima,Departamento,194287,143,4,2
+Perú,Lima,Casa,298163,161,3,1
+Perú,Piura,Departamento,146037,227,4,2
+Perú,Lima,Departamento,309716,218,3,2
+Perú,La Libertad,Casa,175051,198,3,2
+Perú,Arequipa,Departamento,183791,209,4,2
+Perú,Lima,Departamento,92761,66,3,1
+Perú,Lima,Departamento,148706,127,1,2
+Perú,Piura,Casa,230344,261,4,3
+Perú,La Libertad,Casa,188285,198,4,2
+Perú,La Libertad,Departamento,56977,61,2,1
+Perú,La Libertad,Departamento,159151,175,4,2
+Perú,La Libertad,Casa,247286,273,2,2
+Perú,Piura,Casa,119844,141,2,2
+Perú,Lima,Departamento,309730,229,3,3
+Perú,Arequipa,Casa,105726,93,3,1
+Perú,Arequipa,Casa,49700,52,3,3
+Perú,Cusco,Departamento,132447,157,4,1
+Perú,Lima,Casa,294648,235,1,1
+Perú,La Libertad,Casa,139640,153,4,2
+Perú,Cusco,Departamento,51775,59,2,3
+Perú,Arequipa,Casa,215407,218,1,2
+Perú,La Libertad,Casa,121374,103,2,2
+Perú,Cusco,Departamento,145703,170,4,3
+Perú,La Libertad,Casa,109289,105,2,3
+Perú,Lima,Casa,336784,187,3,2
+Perú,Lima,Departamento,133271,103,1,2
+Perú,Arequipa,Casa,275485,237,4,1
+Perú,Arequipa,Casa,296786,270,4,1
+Perú,Arequipa,Departamento,240087,293,2,2
+Perú,Arequipa,Departamento,134646,208,3,1
+Perú,Arequipa,Departamento,171644,199,4,2
+Perú,Piura,Departamento,188040,208,3,1
+Perú,Lima,Departamento,189269,162,2,3
+Perú,Lima,Departamento,353228,269,3,1
+Perú,Piura,Departamento,162707,210,4,3
+Perú,Lima,Casa,170115,96,3,3
+Perú,Arequipa,Casa,107231,118,1,2
+Perú,Lima,Departamento,151571,156,2,2
+Perú,Lima,Departamento,211031,158,3,2
+Perú,La Libertad,Casa,288728,292,4,1
+Perú,Lima,Departamento,173421,123,4,2
+Perú,Arequipa,Casa,338247,280,3,1
+Perú,La Libertad,Casa,101843,119,2,1
+Perú,La Libertad,Casa,327167,266,2,2
+Perú,Lima,Casa,257989,184,4,2
+Perú,Lima,Casa,332319,193,2,1
+Perú,La Libertad,Casa,126249,122,4,3
+Perú,Lima,Casa,208242,156,4,2
+Perú,Lima,Departamento,165638,119,2,3
+Perú,Piura,Departamento,211451,225,2,2
+Perú,Lima,Casa,325470,191,2,1
+Perú,Lima,Departamento,143491,136,4,1
+Perú,Lima,Departamento,167780,134,1,1
+Perú,Lima,Casa,230507,166,2,1
+Perú,La Libertad,Departamento,66213,82,1,1
+Perú,La Libertad,Casa,79133,92,2,1
+Perú,Arequipa,Casa,293501,287,1,2
+Perú,Lima,Casa,126265,71,2,2
+Perú,Lima,Casa,377159,228,2,3
+Perú,Arequipa,Casa,110488,108,4,3
+Perú,La Libertad,Casa,76106,81,4,2
+Perú,Lima,Casa,259395,165,4,1
+Perú,Cusco,Casa,132298,141,1,1
+Perú,Arequipa,Casa,79808,75,2,1
+Perú,Lima,Departamento,272796,249,2,3
+Perú,Lima,Casa,126791,72,2,3
+Perú,La Libertad,Departamento,42312,60,2,1
+Perú,Arequipa,Departamento,108335,121,3,3
+Perú,Piura,Casa,232506,259,4,2
+Perú,La Libertad,Departamento,117944,129,3,3
+Perú,Lima,Casa,372689,279,1,3
+Perú,Lima,Departamento,266278,209,3,1
+Perú,Lima,Casa,206712,159,4,1
+Perú,La Libertad,Casa,207366,168,3,1
+Perú,Piura,Departamento,174520,207,4,2
+Perú,Piura,Departamento,201737,296,1,1
+Perú,Lima,Casa,130352,74,2,2
+Perú,Lima,Departamento,266960,238,1,2
+Perú,Arequipa,Departamento,80724,109,3,2
+Perú,La Libertad,Casa,245211,250,2,2
+Perú,La Libertad,Casa,71438,79,1,2
+Perú,Lima,Departamento,217967,212,1,3
+Perú,Lima,Casa,205135,124,4,2
+Perú,Cusco,Casa,222403,188,3,3
+Perú,Lima,Departamento,65717,65,3,3
+Perú,Lima,Departamento,210602,197,4,3
+Perú,Lima,Departamento,150010,116,1,3
+Perú,Lima,Departamento,68315,70,1,1
+Perú,Cusco,Casa,330854,277,3,1
+Perú,La Libertad,Departamento,185162,256,1,2
+Perú,Cusco,Departamento,159421,236,4,2
+Perú,Lima,Casa,467197,294,3,3
+Perú,Piura,Casa,111651,133,4,2
+Perú,Piura,Departamento,182019,199,3,2
+Perú,Piura,Casa,79345,68,4,1
+Perú,Piura,Departamento,89977,122,3,1
+Perú,Lima,Departamento,297113,293,2,1
+Perú,Arequipa,Casa,240617,258,4,1
+Perú,Lima,Departamento,238217,191,3,1
+Perú,Lima,Casa,115023,90,4,2
+Perú,Cusco,Casa,162431,135,3,3
+Perú,Lima,Departamento,148895,111,2,3
+Perú,Lima,Casa,158971,99,1,1
+Perú,Lima,Departamento,291438,244,1,1
+Perú,Arequipa,Departamento,107398,117,2,1
+Perú,Lima,Departamento,223878,224,2,2
+Perú,La Libertad,Departamento,181419,196,1,2
+Perú,Arequipa,Departamento,72152,87,1,3
+Perú,Lima,Departamento,142413,141,2,1
+Perú,Piura,Casa,229628,243,3,3
+Perú,Piura,Casa,136176,136,2,1
+Perú,Lima,Departamento,76247,61,3,3
+Perú,Lima,Departamento,261856,234,1,3
+Perú,Lima,Departamento,246313,225,4,1
+Perú,Arequipa,Casa,81848,98,2,3
+Perú,La Libertad,Departamento,109547,139,1,1
+Perú,Lima,Casa,199008,156,1,1
+Perú,La Libertad,Departamento,81164,90,1,3
+Perú,La Libertad,Departamento,58454,90,4,3
+Perú,Lima,Departamento,177171,126,1,1
+Perú,Lima,Departamento,172935,125,1,1
+Perú,Lima,Departamento,318602,289,2,3
+Perú,Piura,Departamento,52218,57,2,3
+Perú,Cusco,Departamento,172386,264,4,2
+Perú,Lima,Casa,473551,271,4,2
+Perú,Lima,Departamento,250879,205,1,1
+Perú,Lima,Departamento,253426,192,2,3
+Perú,Arequipa,Casa,291946,243,1,2
+Perú,Arequipa,Departamento,113065,167,3,3
+Perú,Cusco,Departamento,154178,166,2,3
+Perú,Arequipa,Casa,42680,51,2,3
+Perú,Lima,Departamento,108259,94,1,1
+Perú,La Libertad,Departamento,214693,272,4,1
+Perú,Lima,Departamento,316212,231,4,3
+Perú,Lima,Departamento,315936,230,2,2
+Perú,Lima,Departamento,253799,205,1,3
+Perú,Lima,Departamento,93693,97,3,1
+Perú,Lima,Casa,330982,210,2,1
+Perú,Arequipa,Departamento,92800,105,3,3
+Perú,Lima,Casa,320858,195,3,3
+Perú,Lima,Casa,271133,188,2,1
+Perú,Arequipa,Casa,177106,165,2,1
+Perú,Lima,Departamento,225398,158,2,3
+Perú,Arequipa,Departamento,35604,53,2,2
+Perú,Piura,Departamento,216930,283,2,3
+Perú,Lima,Departamento,80771,79,2,1
+Perú,Lima,Casa,231567,150,2,2
+Perú,La Libertad,Departamento,57118,78,3,2
+Perú,Lima,Departamento,306684,273,4,1
+Perú,Lima,Departamento,231803,190,2,1
+Perú,La Libertad,Departamento,132614,180,4,1
+Perú,Lima,Departamento,150666,134,4,1
+Perú,Piura,Departamento,87882,117,4,3
+Perú,Lima,Departamento,239512,190,3,3
+Perú,La Libertad,Departamento,109973,131,1,2
+Perú,Lima,Departamento,138158,134,1,1
+Perú,Cusco,Casa,173865,196,3,1
+Perú,Arequipa,Casa,227044,222,2,1
+Perú,Cusco,Departamento,177130,269,4,1
+Perú,La Libertad,Casa,106373,119,3,2
+Perú,Piura,Casa,120314,101,3,3
+Perú,Lima,Casa,170476,124,4,3
+Perú,Lima,Departamento,288312,241,2,1
+Perú,La Libertad,Casa,268416,268,3,3
+Perú,La Libertad,Casa,226267,184,4,3
+Perú,Lima,Casa,337890,222,1,1
+Perú,La Libertad,Departamento,103343,112,3,1
+Perú,Arequipa,Casa,289735,238,4,2
+Perú,Lima,Departamento,343714,263,2,2
+Perú,Lima,Casa,103028,70,2,1
+Perú,Lima,Casa,145790,79,3,3
+Perú,Piura,Casa,88248,75,3,2
+Perú,Lima,Departamento,115633,85,1,3
+Perú,Lima,Casa,319644,185,4,1
+Perú,La Libertad,Casa,91329,84,4,3
+Perú,Lima,Casa,383088,255,2,3
+Perú,Lima,Departamento,122606,121,4,1
+Perú,Piura,Casa,115556,94,3,2
+Perú,Lima,Casa,302715,194,2,2
+Perú,Lima,Casa,400337,267,3,3
+Perú,Lima,Departamento,328343,244,2,2
+Perú,Lima,Casa,435227,270,3,1
+Perú,Arequipa,Casa,194581,230,3,1
+Perú,Lima,Departamento,276193,263,3,3
+Perú,La Libertad,Casa,69249,59,2,2
+Perú,Lima,Casa,280040,159,4,3
+Perú,Arequipa,Departamento,36343,53,3,2
+Perú,Lima,Departamento,352755,255,4,2
+Perú,Cusco,Departamento,194502,253,1,3
+Perú,Lima,Departamento,264553,203,2,2
+Perú,La Libertad,Casa,101599,99,2,1
+Perú,Piura,Casa,251165,206,1,1
+Perú,Lima,Departamento,280692,204,4,2
+Perú,La Libertad,Departamento,122915,132,4,3
+Perú,Lima,Casa,410820,264,1,3
+Perú,La Libertad,Departamento,128004,187,1,1
+Perú,La Libertad,Departamento,153111,210,3,1
+Perú,Cusco,Departamento,103827,143,4,3
+Perú,Arequipa,Departamento,61292,91,2,3
+Perú,Arequipa,Departamento,116396,148,2,2
+Perú,La Libertad,Departamento,158271,173,1,2
+Perú,Arequipa,Casa,90510,80,1,1
+Perú,La Libertad,Casa,256637,233,4,1
+Perú,La Libertad,Departamento,161692,211,4,3
+Perú,Lima,Departamento,109940,77,4,1
+Perú,Cusco,Casa,247848,231,1,3
+Perú,Lima,Departamento,99325,98,2,1
+Perú,Lima,Departamento,118947,123,1,2
+Perú,Lima,Casa,172328,130,2,3
+Perú,Lima,Departamento,183442,151,2,1
+Perú,Lima,Casa,268790,171,2,1
+Perú,Lima,Casa,112469,65,4,2
+Perú,La Libertad,Casa,198668,230,3,2
+Perú,Lima,Departamento,213934,183,4,1
+Perú,Lima,Departamento,250784,235,1,2
+Perú,Arequipa,Casa,101918,92,1,3
+Perú,La Libertad,Departamento,203757,250,4,1
+Perú,Arequipa,Casa,228619,249,3,3
+Perú,Cusco,Departamento,122458,147,1,3
+Perú,Lima,Casa,430216,267,4,1
+Perú,Lima,Casa,239858,145,3,3
+Perú,Arequipa,Casa,258670,282,2,3
+Perú,Lima,Casa,128430,74,1,3
+Perú,Lima,Departamento,315049,249,3,3
+Perú,Cusco,Departamento,85552,114,4,2
+Perú,Lima,Casa,191165,106,1,2
+Perú,Lima,Departamento,157093,163,4,1
+Perú,Lima,Casa,387607,210,3,2
+Perú,Lima,Departamento,219943,171,1,2
+Perú,Lima,Casa,366824,239,2,2
+Perú,Lima,Casa,70274,52,1,1
+Perú,Lima,Departamento,369190,258,1,2
+Perú,La Libertad,Casa,351011,285,4,3
+Perú,Lima,Casa,208223,113,2,1
+Perú,Lima,Departamento,193380,138,3,3
+Perú,Lima,Casa,255141,203,4,3
+Perú,Cusco,Departamento,126928,147,3,1
+Perú,Piura,Casa,294639,296,2,2
+Perú,Cusco,Departamento,120834,143,3,1
+Perú,Lima,Casa,503283,291,2,1
+Perú,La Libertad,Casa,148323,150,4,2
+Perú,La Libertad,Departamento,238125,265,4,2
+Perú,Arequipa,Casa,131262,140,3,1
+Perú,Lima,Casa,237172,190,4,1
+Perú,Lima,Departamento,289338,204,1,1
+Perú,La Libertad,Departamento,88808,116,1,2
+Perú,Piura,Departamento,125351,152,2,1
+Perú,La Libertad,Casa,151464,142,3,2
+Perú,Cusco,Casa,45585,50,1,3
+Perú,Arequipa,Departamento,58721,90,2,1
+Perú,Lima,Casa,423007,297,1,1
+Perú,Cusco,Casa,230243,228,4,2
+Perú,La Libertad,Departamento,184299,237,3,3
+Perú,La Libertad,Departamento,175070,198,3,2
+Perú,La Libertad,Casa,151314,165,4,1
+Perú,Lima,Casa,192807,152,2,1
+Perú,Lima,Casa,114995,64,1,3
+Perú,Lima,Departamento,87475,89,4,2
+Perú,La Libertad,Casa,332556,283,2,1
+Perú,Lima,Departamento,326466,297,1,1
+Perú,Lima,Departamento,134906,111,1,1
+Perú,Lima,Casa,254884,150,4,3
+Perú,Lima,Departamento,128699,110,4,3
+Perú,Lima,Casa,387761,269,3,3
+Perú,Arequipa,Departamento,217193,246,2,2
+Perú,La Libertad,Departamento,53346,74,3,2
+Perú,Lima,Casa,321935,172,4,3
+Perú,Lima,Casa,415663,262,4,1
+Perú,Lima,Departamento,105747,80,4,3
+Perú,Lima,Casa,82114,58,4,2
+Perú,Lima,Departamento,165627,117,3,1
+Perú,Lima,Departamento,201547,151,3,1
+Perú,Lima,Departamento,331471,282,2,3
+Perú,Cusco,Departamento,230875,247,3,2
+Perú,Cusco,Casa,100277,106,3,1
+Perú,Lima,Departamento,133410,119,4,1
+Perú,La Libertad,Departamento,85520,98,3,1
+Perú,Piura,Departamento,99029,130,3,2
+Perú,Lima,Departamento,168251,165,2,2
+Perú,Arequipa,Casa,207670,238,4,3
+Perú,Arequipa,Casa,179225,170,4,3
+Perú,Lima,Departamento,90553,76,4,1
+Perú,Piura,Casa,338990,276,4,3
+Perú,La Libertad,Departamento,168767,197,4,3
+Perú,Lima,Casa,255995,164,4,3
+Perú,Lima,Departamento,333871,244,3,3
+Perú,Arequipa,Casa,231230,257,1,1
+Perú,Lima,Departamento,130433,124,4,1
+Perú,Piura,Departamento,97621,106,1,2
+Perú,Lima,Departamento,111031,111,1,3
+Perú,Cusco,Departamento,171492,243,3,1
+Perú,Arequipa,Casa,201485,184,2,3
+Perú,Lima,Casa,354039,270,1,2
+Perú,Piura,Departamento,68229,106,2,1
+Perú,Piura,Casa,58293,55,4,2
+Perú,Arequipa,Casa,286808,267,1,3
+Perú,Arequipa,Departamento,127027,180,1,3
+Perú,Lima,Casa,121020,73,2,2
+Perú,Arequipa,Departamento,178002,268,2,3
+Perú,Lima,Casa,240807,157,3,3
+Perú,Arequipa,Departamento,71812,83,2,3
+Perú,Arequipa,Departamento,234285,274,2,1
+Perú,Arequipa,Departamento,46774,51,1,3
+Perú,Lima,Casa,187426,102,2,3
+Perú,La Libertad,Departamento,245924,297,2,2
+Perú,Cusco,Casa,202893,242,4,3
+Perú,Lima,Casa,243610,132,4,1
+Perú,La Libertad,Casa,232354,209,4,2
+Perú,Lima,Casa,115410,76,3,3
+Perú,Lima,Departamento,281553,205,4,1
+Perú,Arequipa,Departamento,194637,203,4,1
+Perú,Arequipa,Departamento,189276,219,1,3
+Perú,Lima,Departamento,210333,160,3,3
+Perú,Lima,Casa,152944,118,2,3
+Perú,Lima,Departamento,138886,111,3,2
+Perú,Lima,Departamento,258954,187,3,3
+Perú,Lima,Departamento,168543,126,3,2
+Perú,Arequipa,Departamento,161572,169,4,3
+Perú,La Libertad,Departamento,86130,122,3,1
+Perú,Lima,Casa,140072,77,1,1
+Perú,Lima,Departamento,155097,134,2,3
+Perú,Arequipa,Casa,310889,299,2,3
+Perú,Piura,Casa,78731,67,2,3
+Perú,Arequipa,Departamento,43930,53,3,1
+Perú,Lima,Casa,161349,117,1,3
+Perú,Cusco,Casa,291596,291,2,2
+Perú,Lima,Departamento,243430,182,4,1
+Perú,Cusco,Departamento,142907,158,3,3
+Perú,La Libertad,Departamento,229285,245,3,2
+Perú,Arequipa,Departamento,82853,110,4,1
+Perú,La Libertad,Casa,94662,81,1,2
+Perú,Lima,Casa,196372,107,1,1
+Perú,Lima,Departamento,67408,55,3,3
+Perú,Lima,Casa,90202,54,1,3
+Perú,Lima,Casa,133164,106,1,1
+Perú,Lima,Departamento,248239,190,4,3
+Perú,Lima,Departamento,255207,194,1,2
+Perú,Arequipa,Casa,64016,67,2,1
+Perú,Lima,Casa,484227,284,3,2
+Perú,Lima,Departamento,174944,164,1,2
+Perú,Arequipa,Casa,184899,216,2,3
+Perú,Lima,Departamento,248628,175,4,3
+Perú,Arequipa,Departamento,63735,82,3,3
+Perú,Cusco,Departamento,196668,283,2,2
+Perú,Lima,Casa,292276,178,4,3
+Perú,Lima,Departamento,298779,294,1,3
+Perú,Lima,Casa,90862,66,1,2
+Perú,La Libertad,Departamento,85867,107,1,1
+Perú,Lima,Departamento,218491,220,1,3
+Perú,Arequipa,Departamento,244342,284,4,1
+Perú,Cusco,Departamento,148862,169,1,1
+Perú,La Libertad,Departamento,198782,292,2,1
+Perú,Arequipa,Departamento,119142,132,1,1
+Perú,Lima,Departamento,266035,230,1,2
+Perú,Piura,Casa,208946,243,2,2
+Perú,Lima,Departamento,217974,153,4,1
+Perú,Piura,Casa,120239,115,2,3
+Perú,Lima,Departamento,168656,172,3,3
+Perú,Lima,Casa,183924,113,3,2
+Perú,Lima,Casa,210586,165,3,3
+Perú,Piura,Casa,334509,284,4,1
+Perú,Lima,Departamento,173999,173,4,3
+Perú,Lima,Casa,280065,185,2,1
+Perú,Arequipa,Casa,98016,88,4,1
+Perú,Lima,Departamento,313867,241,3,3
+Perú,Cusco,Departamento,205796,269,2,1
