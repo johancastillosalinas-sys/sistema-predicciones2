@@ -1,5 +1,7 @@
 'use client';
 
+export const dynamic = 'force-dynamic';
+
 import React, { useState } from 'react';
 import { useData } from '@/context/DataContext';
 import { useAuth } from '@/context/AuthContext';
@@ -25,6 +27,11 @@ export default function ColaboradoresPage() {
   const { currentUser, isAdmin } = useAuth();
   const [inviteModalOpen, setInviteModalOpen] = useState(false);
   const [copiedToken, setCopiedToken] = useState<string | null>(null);
+
+  // Validación temprana para evitar errores de tipo si currentUser es undefined
+  if (!currentUser) {
+    return null;
+  }
 
   const pendingInvites = invitations.filter((i) => i.status === 'PENDING');
   const pastInvites = invitations.filter((i) => i.status !== 'PENDING');
@@ -253,11 +260,12 @@ export default function ColaboradoresPage() {
             </thead>
             <tbody className="divide-y divide-slate-800/60">
               {users.map((u) => {
-                const isCurrent = u.id === currentUser.id;
+                const isCurrent = u.id === currentUser?.id;
                 return (
                   <tr key={u.id} className="hover:bg-slate-800/30 transition">
                     <td className="px-5 py-4">
                       <div className="flex items-center gap-3">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
                           src={u.avatar}
                           alt={u.name}
@@ -352,4 +360,3 @@ export default function ColaboradoresPage() {
     </div>
   );
 }
-
