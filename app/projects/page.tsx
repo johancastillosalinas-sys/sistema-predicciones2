@@ -12,11 +12,14 @@ import {
 } from 'lucide-react';
 
 export default function ProjectsCentral() {
-  const router = useRouter(); // Corregido: useRouter() en lugar de Router()
+  const router = useRouter();
 
   const handleSelectProject = (projectId: string) => {
     if (projectId === 'realestate-predict') {
       router.push('/login');
+    } else if (projectId === 'credit-risk') {
+      // Redirige a tu segundo proyecto alojado en Vercel
+      window.open('https://cloud-ops-dashboard-tau.vercel.app/login', '_blank');
     }
   };
 
@@ -35,9 +38,9 @@ export default function ProjectsCentral() {
       title: 'CreditRisk Analysis',
       subtitle: 'Evaluación algorítmica de riesgo crediticio e historial financiero para aprobación de préstamos.',
       icon: LineChart,
-      badge: 'Próximamente',
-      badgeColor: 'bg-slate-800 text-slate-400 border-slate-700',
-      active: false,
+      badge: 'Operativo', // Cambiado a Operativo
+      badgeColor: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20', // Cambiado a verde
+      active: true, // Cambiado a true
     },
     {
       id: 'demand-forecasting',
