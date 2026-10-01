@@ -1,6 +1,7 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+import UploadedProjects from '@/components/UploadedProjects';
 import { 
   Building2, 
   BrainCircuit, 
@@ -35,7 +36,7 @@ export default function ProjectsCentral() {
     },
     {
       id: 'credit-risk',
-      title: 'CreditRisk Analysis',
+      title: 'CloudOps',
       subtitle: 'Evaluación algorítmica de riesgo crediticio e historial financiero para aprobación de préstamos.',
       icon: LineChart,
       badge: 'Operativo', // Cambiado a Operativo
@@ -139,6 +140,7 @@ export default function ProjectsCentral() {
               </div>
             );
           })}
+          <UploadedProjects />
         </div>
 
       </div>
